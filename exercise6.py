@@ -1,4 +1,4 @@
-# Follow up of Exercise 5. This time the pig_latin() function converts sentences instead of words.
+# Follow up of Exercise 5. This time the pig_latin() function converts sentences too instead of just words.
 
 def pig_latin(sentence):
     words = sentence.split()
