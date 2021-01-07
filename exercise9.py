@@ -2,7 +2,7 @@
 The bottom line of this exercise is the idea creating a function able to
 retrieve data from a sequence (list, tuple, string) and return a another sequence of
 the same type. This is possible thanks to the idea of slicing [a:b] and wouldn't be
-possible just accessing the elements of the via index [a].
+possible just accessing the elements via index [a].
 """
 
 
