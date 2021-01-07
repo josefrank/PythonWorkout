@@ -1,5 +1,5 @@
 """
-Write a sum() like function with the feature of taking more than a sequence.
+A sum() like function with the feature of taking more than a sequence.
 
 Note: The splat operator [as in mySum(*numbers)] always returns a tuple. If attempting
 to past a sequence (list, tuple, string) as an argument in the function call of MySum()
