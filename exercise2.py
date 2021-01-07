@@ -7,7 +7,7 @@ will result in a type error because the *numbers parameter will convert the sequ
 into a tuple whose first element would be the sequence itself that wound not be possible
 to be added to the total variable because it is an integer.
 
-The solution to this problem is to add the splat (*) operator in the function call too which
+The solution to this problem is to add the splat (*) operator in the function call too, which
 results in the argument passed to be "unpacked" as it would have been individual values.
 """
 
