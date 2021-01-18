@@ -1,4 +1,8 @@
-# TODO: Add description an notes.
+"""
+In the book, the function is called my_sum(). However, I think it should have been called merge() because the
+idea behind this exercise is to create a function capable of merging any number of sequences passed to it.
+Although it is also able to add the elements of a single senquence.
+"""
 
 def my_sum(*items):
     if not items:
